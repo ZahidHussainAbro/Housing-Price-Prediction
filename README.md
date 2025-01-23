@@ -1,6 +1,6 @@
 # Housing-Price-Prediction
 # Boston Houses Price Prediction
-I am happy to share the House Price Prediction Machine Learning Project using Python. In this project, the XGboost regression algorithm is used.
+House Price Prediction Machine Learning Project using Python. In this project, the XGboost regression algorithm is used.
 
 Data is about Boston USA Housing prices that contain 500 rows and 14 columns (features). 
 
